@@ -1,5 +1,7 @@
 # NCAT
 
+Youtube ref : https://www.youtube.com/watch?v=oT2H8a1SB2k&ab_channel=Electronoobs
+
 NEW: (micro) μNCAT SYSTEM 1.0 for ESP32S3 LILYGO T-QT
  
 <a href="https://github.com/ncat-system/micro-NCAT-LITE/">https://github.com/ncat-system/micro-NCAT-LITE</a>
